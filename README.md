@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **FlorentDambreville/FlorentDambreville** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Banner Image](https://github.com/FlorentDambreville/FlorentDambreville/blob/main/banner.png)
 
-## About Me 🚀
+## A little about Me ⛵️
 
 💻 Software Engineer | 📱Android Specialist | 🚀 Passionate about Innovation
 
@@ -34,15 +32,10 @@ I can help transform your ideas into simple and innovative product
 - 📫 How to reach me: www.learniapps.com
 - ⚡ Fun fact: **If you sail too let's share our best spot** ⛵️
 
-## My Skills 🧠
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-B125EA&style=for-the-badge&logo=kotlin&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+## At work 🧠
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
-![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-
-### Work values
+### Coding values
 - Simplicity 👌
 - Readability 📖
 - Modernity 🚀

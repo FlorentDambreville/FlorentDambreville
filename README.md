@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Oy, I'm Florent! 🌊
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](https://github.com/FlorentDambreville/FlorentDambreville/blob/main/banner.png)
 
 ## About Me 🚀
 
@@ -30,7 +30,6 @@ I can help transform your ideas into simple and innovative product
 
 
 - 🌱 Currently learning: **Kotlin Multiplatform** & **Jetpack Compose**
-- 🔭 Working on: **Comatelot**
 - 🌍 Languages: Fell in love with **Kotlin**. Oh and **French** & **English**
 - 📫 How to reach me: www.learniapps.com
 - ⚡ Fun fact: **If you sail too let's share our best spot** ⛵️
@@ -38,9 +37,10 @@ I can help transform your ideas into simple and innovative product
 ## My Skills 🧠
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-B125EA&style=for-the-badge&logo=kotlin&logoColor=white)
-![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
 ### Work values
 - Simplicity 👌
